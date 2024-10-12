@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "324233891979",
+    "project_id": "manager-product-928cb",
+    "storage_bucket": "manager-product-928cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324233891979:android:954702f3562b445439448e",
+        "android_client_info": {
+          "package_name": "com.example.manager_product"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH1Uill2tb6PSt-OtNuATuR8M4YAsQeXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
